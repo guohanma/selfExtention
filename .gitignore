@@ -1,0 +1,8 @@
+/.metadata/
+*.[oa]
+*~
+*.tmp
+*.doc
+.recommenders
+RemoteSystemsTempFiles
+文件
